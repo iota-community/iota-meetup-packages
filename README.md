@@ -29,11 +29,3 @@ https://youtu.be/tgNl2DtwYSI
 ## Technical details
 
 All presentations are available as ODP ([OpenDocument](https://en.wikipedia.org/wiki/OpenDocument) Presentation) and can be opened with [LibreOffice](https://www.libreoffice.org/) or other software products that support the ODP file format.
-
-### Ecosystem Resources
-
-* [Official IOTA Ecosystem](https://ecosystem.iota.org)
-* [Hackster.io](https://www.hackster.io/iota/projects)
-* [helloIOTA](https://helloiota.com)
-* [ThinkTangle](http://thinktangle.com/)
-* [IOTA Archive](https://iota-archive.com)

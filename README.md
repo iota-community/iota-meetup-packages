@@ -24,7 +24,7 @@ N° of meetups: 6
 
 ## Introduction video
 
-https://youtu.be/tgNl2DtwYSI
+TBD
 
 ## Technical details
 

@@ -8,7 +8,7 @@
 - [FAQ](#faq)
   * [Can I contribute to these packages?](#can-i-contribute-to-these-packages-)
   * [Can I translate a presentation to my language?](#can-i-translate-a-presentation-to-my-language-)
-  * [Get in touch with the IOTA Community and the IOTA Foundation](#get-in-touch-with-the-iota-community-and-the-iota-foundation)
+- [Get in touch with the IOTA Community and the IOTA Foundation](#get-in-touch-with-the-iota-community-and-the-iota-foundation)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 

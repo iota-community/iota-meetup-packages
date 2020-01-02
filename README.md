@@ -31,7 +31,7 @@ The Meetup organizer will get:
 
 Mean duration of every meetup: 1,5h
 
-N° of meetups: 6 (published 5)
+N° of meetups: 6
 
 ## Introduction video
 [Introduction to the IOTA Meetup Packages - T5:06](https://youtu.be/UETux2TM5Zw)

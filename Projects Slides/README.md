@@ -1,16 +1,16 @@
 # Projects slides
 
-We invite the IOTA Ecosystem to add the slides of their own projects to share them with the whole IOTA Community.  
+We invite the IOTA Ecosystem to add the slides of their own projects to share them with the whole IOTA Community.
 Please try to keep it between one, maximum three slides.
 
 Add your presentation through a PR in github.
-If possible use the OpenDocument format.  
+If possible use the OpenDocument format.
 
 Use the following filename ormat:
 
 **YEAR_PROJECTNAME_VERSION**.odp
 
-e.g.  
+e.g.
 2019_STODT_V1
 
 and add it to the following list with links to find more information about your project.
@@ -25,6 +25,7 @@ and add it to the following list with links to find more information about your 
 
   * [Official IOTA Ecosystem](https://ecosystem.iota.org)
   * [Hackster.io](https://www.hackster.io/iota/projects)
+  * [einfachIOTA](https://www.einfachiota.de/#/projects)
   * [helloIOTA](https://helloiota.com)
   * [ThinkTangle](http://thinktangle.com/)
   * [IOTA Archive](https://iota-archive.com)

@@ -23,18 +23,29 @@ All presentations use the *Nunito Sans* font. This font is published with the [O
 # Content
 This is an outline for a series of technology related meetups.
 
-The Meetup organizer will get:
+Following material is available for the Meetup organizer:
 
 * Presentation
 * Slides notes
 * Official documentation links to dig deeper
 
-Mean duration of every meetup: 1,5h
-
-N° of meetups: 6
-
 ## Introduction video
 [Introduction to the IOTA Meetup Packages - T5:06](https://youtu.be/UETux2TM5Zw)
+
+## IOTA Technology Meetups
+
+Meetup packages about the IOTA Technology are available in the IOTA Technology Meetups[IOTA-Technology-Meetups] folder.
+* Mean duration of every meetup: 1,5h
+* n° of meetups: 6
+
+
+## Business Development Slides
+
+The IOTA Business Development[IOTA-Business-Development] folder contains slides about IOTA Business Development
+
+## Projects that use IOTA
+
+The Projects that use IOTA[Projects-that-use-IOTA] folder contains slides about IOTA Ecosystem projects that use IOTA. These slides can be addeed to your meetup to showcase IOTA Community products/projects/services that use the IOTA protocol.
 
 # Technical details
 All presentations are available as ODP ([OpenDocument](https://en.wikipedia.org/wiki/OpenDocument) Presentation) and can be opened with [LibreOffice](https://www.libreoffice.org/) or other software products that support the ODP file format.

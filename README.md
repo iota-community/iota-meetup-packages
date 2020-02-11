@@ -1,10 +1,13 @@
 # Table of Contents
 
-- [iota-meetup-packages](#iota-meetup-packages)
+- [IOTA Meetup Packages](#iota-meetup-packages)
 - [Pre requisites](#pre-requisites)
 - [Content](#content)
   * [Introduction video](#introduction-video)
-  * [Technical details](#technical-details)
+  * [IOTA Technology Meetups](#iota-technology-meetups)
+  * [Business Development Slides](#business-development-slides)
+  * [Projects that use IOTA](#projects-that-use-iota)
+- [Technical details](#technical-details)
 - [FAQ](#faq)
   * [Can I contribute to these packages?](#can-i-contribute-to-these-packages-)
   * [Can I translate a presentation to my language?](#can-i-translate-a-presentation-to-my-language-)
@@ -12,7 +15,7 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-# iota-meetup-packages
+# IOTA Meetup Packages
 Materials that support our community of meetup organizers
 
 DISCLAIMER: This material is a work in progress. Please give your feedback here on GitHub as issue or get in touch with Antonio Nardella on the [IOTA discord server](https://discord.iota.org).

@@ -1,6 +1,4 @@
-What follows is a draft of a possible Code of Conduct for IOTA related Meetups and events in general
-
-# IOTA Community Guidelines and Code of Conduct for Events (DRAFT)
+# IOTA Community Guidelines and Code of Conduct for Events
 
 IOTA related events are dedicated to providing a harassment-free and inclusive event experience for everyone regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category. We do not tolerate harassment of event participants in any form. IOTA related events take violations of this policy seriously and will respond appropriately.
 
